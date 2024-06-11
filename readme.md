@@ -7,6 +7,9 @@
 ```bash
 npm install
 ```
+```bash
+npx playwright install
+```
 
 ## Запуск сайта ya.ru
 
